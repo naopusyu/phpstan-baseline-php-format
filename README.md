@@ -1,0 +1,1 @@
+# phpstan-baseline-php-format
